@@ -9,7 +9,6 @@ vendors/SDL/build/
 **/CMakeFiles/
 **/CMakeCache.txt
 **/cmake_install.cmake
-**/Makefile
 **/*.ninja
 **/*.ninja_deps
 **/*.ninja_log
@@ -28,3 +27,4 @@ vendors/SDL/build/
 # OS
 .DS_Store
 
+!Makefile
