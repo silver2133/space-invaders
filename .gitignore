@@ -1,0 +1,30 @@
+# Binaries
+invaders_sdl
+invaders_ncurses
+sdl_probe
+
+# Build / cache
+build/
+vendors/SDL/build/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/*.ninja
+**/*.ninja_deps
+**/*.ninja_log
+
+# Objects
+*.o
+*.a
+*.so
+*.out
+
+# Editors
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+
